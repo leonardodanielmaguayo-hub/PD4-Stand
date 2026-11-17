@@ -1,0 +1,7 @@
+com\pd4stand\model\Stand.class
+com\pd4stand\Main.class
+com\pd4stand\model\Editorial.class
+com\pd4stand\persistence\JdbcRepositorio.class
+com\pd4stand\controller\ControladorStands.class
+com\pd4stand\model\EstadoStand.class
+com\pd4stand\model\Reserva.class
